@@ -16,7 +16,7 @@
 
 ###
 
-<img src="https://github.com/yash4510/About-Me/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yash4510/yash4510/output/snake.svg" alt="Snake animation" />
 
 ###
 
